@@ -1,4 +1,4 @@
-# Healpix.NET
+# Healpix C# Port
 A port of the HEALPix core to C# based on the [Healpix Java](https://healpix.jpl.nasa.gov/html/java/index.html) implementation
 
 ## NOTE
